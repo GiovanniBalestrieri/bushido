@@ -1,0 +1,7 @@
+# Instructions to cross-compile
+
+/usr/local/cross-rpi/usr/bin/arm-linux-gcc -o sum sum.c 
+
+scp sum  root@192.168.1.180:/home/userk
+
+#arm-unknown-linux-gnueabi-gcc -o arm-hello hello.c
