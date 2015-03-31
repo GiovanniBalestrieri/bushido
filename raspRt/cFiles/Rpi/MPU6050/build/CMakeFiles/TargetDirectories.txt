@@ -1,0 +1,2 @@
+/home/userk/Development/Linux/RaspberryPi/github/bushido/raspRt/cFiles/Rpi/MPU6050/build/CMakeFiles/IMU.dir
+/home/userk/Development/Linux/RaspberryPi/github/bushido/raspRt/cFiles/Rpi/MPU6050/build/CMakeFiles/MPU6050.dir

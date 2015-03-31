@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/userk/Development/Linux/RaspberryPi/github/bushido/raspRt/cFiles/Rpi/MPU6050/MPU6050.h
+RPI.h
+/home/userk/Development/Linux/RaspberryPi/github/bushido/raspRt/cFiles/Rpi/MPU6050/RPI.h
+
+/home/userk/Development/Linux/RaspberryPi/github/bushido/raspRt/cFiles/Rpi/MPU6050/main.c
+RPI.h
+/home/userk/Development/Linux/RaspberryPi/github/bushido/raspRt/cFiles/Rpi/MPU6050/RPI.h
+MPU6050.h
+/home/userk/Development/Linux/RaspberryPi/github/bushido/raspRt/cFiles/Rpi/MPU6050/MPU6050.h
+time.h
+-
+sys/time.h
+-
+math.h
+-
+stdio.h
+-
+ncurses.h
+-
+

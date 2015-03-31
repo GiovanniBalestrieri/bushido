@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/IMU.dir/main.c.o  -o IMU -rdynamic -lRPI libMPU6050.a -lncurses -lm -lrt 

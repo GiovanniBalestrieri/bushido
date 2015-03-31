@@ -1,0 +1,2 @@
+/usr/bin/ar cr libMPU6050.a  CMakeFiles/MPU6050.dir/MPU6050.c.o
+/usr/bin/ranlib libMPU6050.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libRPI.a  CMakeFiles/RPI.dir/RPI.c.o
+/usr/bin/ranlib libRPI.a
